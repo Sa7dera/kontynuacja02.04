@@ -1,3 +1,4 @@
+import javax.swing.*;
 import java.util.Scanner;
 
 
@@ -76,6 +77,15 @@ public class Main {
         System.out.printf("Twoje BMI: %.2f\n", bmi);
 
         //zad2
+        //nie wiem
+
+
+
+        }
+
+
+
+
 
 
 
@@ -91,4 +101,3 @@ public class Main {
 
 
     }
-}
